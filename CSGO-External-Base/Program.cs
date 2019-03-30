@@ -6,7 +6,7 @@ namespace CSGO_External_Base
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
         }
     }
 }
